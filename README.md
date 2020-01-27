@@ -11,11 +11,19 @@ What is my favorite color?
 It saved it as an input substitute
   
 - Open main02.py. Before running it, describe how this is different than main01.py.
+Python will record the string entered as an input, and it will display onto the next line.
 
-  - What do you think the color = input() will do?
+- What do you think the color = input() will do?
+The string you entered will equal color
+  
   - Run the program in the terminal and answer the question. Did the program do what you expected?
-- Open main03.py. Before running it, describe how this is different than main02.py.
+Yes
+  
+- Open main03.py. Before it, describe how this is different than main02.py.
+When you enter its favorite color right, it will display corrext on the next line. Whenever the input is wrong, it will display Sorry, try again. on the next line.
+
   - What is happening on lines 9–12?
+
   - Why are lines 10 and 12 indented?
   - Run the program and answer the question. What happens if you don’t capitalize Red?
   - What does this tell you about "color"?
