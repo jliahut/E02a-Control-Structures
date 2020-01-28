@@ -1,4 +1,5 @@
-turn in the URL to your repository on Canvas.
+Each of the python files is running a code asking What is its fovorite color. The right answer is red, and it varies as each python file updates and becomes more complicating.
+
 
 - Open main01.py. Before running it, what do you expect this program to do?
 
